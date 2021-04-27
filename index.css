@@ -1,0 +1,27 @@
+.square{
+    
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    border: 2px solid black;
+
+
+}
+
+
+.circle{
+    width: 200px;
+    height: 200px;
+    background-color: green;
+    border: 2px solid black;
+    border-radius: 50%;
+}
+
+
+.triangle{
+    width: 0;
+    height: 0;
+    border-left: 100px solid transparent;
+    border-right: 100px solid transparent;
+    border-bottom: 200px solid pink;
+}
